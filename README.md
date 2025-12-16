@@ -1,5 +1,13 @@
-# 💫 About Me:
-Attualmente sto studiando la magistrale in Artificial Intelligence all'università di Pisa.<br>Sto creando per un progetto personale una sito web per la mia passione verso gli orologi (ChronoAPP)<br>Ho creato anche un sito web personale per me ed uno per un amico osteopata.<br>Sono appassionato di tecnologia in generale e sono un amante nel provare applicazioni e siti web interessanti e utili.
+# Ciao, sono Francesco! 👋
+Sono uno studente magistrale in **Artificial Intelligence** presso l'**Università di Pisa**. 
+Appassionato di tecnologia a 360°, unisco lo studio teorico dell'IA con lo sviluppo pratico di applicazioni web.
+
+## 🔭 A cosa sto lavorando
+* **ChronoAPP**: Un progetto personale nato dalla mia passione per l'orologeria. È una web app dedicata agli appassionati di orologi (work in progress).
+* **Sviluppo Web Freelance**: Ho realizzato il mio sito personale e una vetrina professionale per uno studio osteopatico.
+
+## 🌱 I miei interessi
+Oltre al codice, sono un vero **Tech Enthusiast**. Amo scovare, testare e analizzare nuove applicazioni, siti web e tool di produttività per capire cosa li rende utili e intuitivi.
 
 
 ## 🌐 Socials:
