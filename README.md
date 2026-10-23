@@ -5,6 +5,8 @@ Appassionato di tecnologia a 360°, unisco lo studio teorico dell'IA con lo svil
 ## 🔭 A cosa sto lavorando
 * **Calibro**: Un progetto personale nato dalla mia passione per l'orologeria. È una web app dedicata agli appassionati di orologi (work in progress).
   *  [Visita il repository su GitHub](https://github.com/effe1209/Calibro)
+  *  [![GitHub Repository](https://img.shields.io/badge/GitHub-Calibro-181717?style=for-the-badge&logo=github)](https://github.com/effe1209/Calibro)
+  *  [Visita il SitoWeb](https://mycalibro.vercel.app)
 * **Sviluppo Web Freelance**: Ho realizzato il mio sito personale e una vetrina professionale per uno studio osteopatico.
 
 ## 🌱 I miei interessi
