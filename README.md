@@ -3,7 +3,8 @@ Sono uno studente magistrale in **Artificial Intelligence** presso l'**Universit
 Appassionato di tecnologia a 360°, unisco lo studio teorico dell'IA con lo sviluppo pratico di applicazioni web.
 
 ## 🔭 A cosa sto lavorando
-* **ChronoAPP**: Un progetto personale nato dalla mia passione per l'orologeria. È una web app dedicata agli appassionati di orologi (work in progress).
+* **Calibro**: Un progetto personale nato dalla mia passione per l'orologeria. È una web app dedicata agli appassionati di orologi (work in progress).
+  *  [Visita il repository su GitHub](https://github.com/effe1209/Calibro)
 * **Sviluppo Web Freelance**: Ho realizzato il mio sito personale e una vetrina professionale per uno studio osteopatico.
 
 ## 🌱 I miei interessi
