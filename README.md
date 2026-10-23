@@ -9,8 +9,9 @@ Appassionato di tecnologia a 360°, unisco lo studio teorico dell'IA con lo svil
 * 👨‍⚕️ **Sviluppo Web Freelance**: Ho realizzato il mio sito personale e una vetrina professionale per uno studio osteopatico.
 * [![Studio Ristori](https://img.shields.io/badge/Sito_Web-Studio_Ristori-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://studio-ristori.vercel.app/)
 * 👤 Pagine Personali & Hub Custom
-* [![SitoWeb Giada Home](https://img.shields.io/badge/SitoWeb-Giada_Home-d7e78c?style=for-the-badge&logo=vercel&logoColor=black)](https://giada-home.vercel.app/)
-* [![SitoWeb Francesco Home](https://img.shields.io/badge/SitoWeb-Francesco_Home-d7e78c?style=for-the-badge&logo=vercel&logoColor=black)](https://francesco-home.vercel.app/)
+* [![SitoWeb Giada Home](https://img.shields.io/badge/Sito Web-Giada_Home-d7e78c?style=for-the-badge&logo=vercel&logoColor=black)](https://giada-home.vercel.app/)
+* [![SitoWeb Francesco Home](https://img.shields.io/badge/Sito Web-Francesco_Home-d7e78c?style=for-the-badge&logo=vercel&logoColor=black)](https://francesco-home.vercel.app/)
+* [![SitoWeb Giada Home](https://img.shields.io/badge/SitoWeb-Giada_Home-d7e78c?style=for-the-badge&logo=html5&logoColor=black)](https://giada-home.vercel.app/)
 
 ## 🌱 I miei interessi
 Oltre al codice, sono un vero **Tech Enthusiast**. Amo scovare, testare e analizzare nuove applicazioni, siti web e tool di produttività per capire cosa li rende utili e intuitivi.
