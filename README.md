@@ -5,12 +5,12 @@ Appassionato di tecnologia a 360°, unisco lo studio teorico dell'IA con lo svil
 ## 🔭 A cosa sto lavorando
 * ⌚ **Calibro**: Un progetto personale nato dalla mia passione per l'orologeria. È una web app dedicata agli appassionati di orologi (work in progress).
 * [![GitHub Repository](https://img.shields.io/badge/GitHub-Calibro-C0A062?style=for-the-badge&logo=github)](https://github.com/effe1209/Calibro)
-* [![⌚ Live App](https://img.shields.io/badge/Sito_Web-Calibro-F59E0B?style=for-the-badge&logo=vercel&logoColor=white)](https://mycalibro.vercel.app)
+* [![⌚ Live App](https://img.shields.io/badge/Sito_Web-Calibro-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mycalibro.vercel.app)
 * 👨‍⚕️ **Sviluppo Web Freelance**: Ho realizzato il mio sito personale e una vetrina professionale per uno studio osteopatico.
 * [![Studio Ristori](https://img.shields.io/badge/Sito_Web-Studio_Ristori-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studio-ristori.vercel.app/)
 * 👤 Pagine Personali & Hub Custom
-* [![SitoWeb Giada Home](https://img.shields.io/badge/Sito Web-Giada_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://giada-home.vercel.app/)
-* [![SitoWeb Francesco Home](https://img.shields.io/badge/Sito Web-Francesco_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://francesco-home.vercel.app/)
+* [![Sito Web Giada Home](https://img.shields.io/badge/Sito_Web-Giada_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://giada-home.vercel.app/)
+* [![Sito Web Francesco Home](https://img.shields.io/badge/Sito_Web-Francesco_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://francesco-home.vercel.app/)
 
 ## 🌱 I miei interessi
 Oltre al codice, sono un vero **Tech Enthusiast**. Amo scovare, testare e analizzare nuove applicazioni, siti web e tool di produttività per capire cosa li rende utili e intuitivi.
