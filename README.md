@@ -8,15 +8,18 @@ Oltre al codice, sono un maker e un tech enthusiast a tutto tondo: nel tempo lib
 ## 🔭 A cosa sto lavorando
 
 - ⌚ **Calibro**: Web app dedicata ai collezionisti e appassionati di orologeria, nata per tracciare e gestire le proprie collezioni (work in progress).
-- [![GitHub Repository](https://img.shields.io/badge/GitHub-Calibro-C0A062?style=for-the-badge&logo=github)](https://github.com/effe1209/Calibro)
-- [![⌚ Live App](https://img.shields.io/badge/Sito_Web-Calibro-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mycalibro.vercel.app)
+  <br/>[![GitHub Repository](https://img.shields.io/badge/GitHub-Calibro-C0A062?style=for-the-badge&logo=github)](https://github.com/effe1209/Calibro)
+  <br/>[![⌚ Live App](https://img.shields.io/badge/Sito_Web-Calibro-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mycalibro.vercel.app)
 
 - 👨‍⚕️ **Sviluppo Web Freelance**: Realizzazione di vetrine digitali e piattaforme per professionisti.
-- [![Studio Ristori](https://img.shields.io/badge/Sito_Web-Studio_Ristori-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studio-ristori.vercel.app/)
+  <br/>
+[![Studio Ristori](https://img.shields.io/badge/Sito_Web-Studio_Ristori-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studio-ristori.vercel.app/)
 
 - 👤 **Hub Personali e Domotica**: Dashboard e portali web personali.
   <br/>
-  [![Sito Web Giada Home](https://img.shields.io/badge/Sito_Web-Giada_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://giada-home.vercel.app/) [![Sito Web Francesco Home](https://img.shields.io/badge/Sito_Web-Francesco_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://francesco-home.vercel.app/)
+  [![Sito Web Giada Home](https://img.shields.io/badge/Sito_Web-Giada_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://giada-home.vercel.app/)
+  <br/>
+  [![Sito Web Francesco Home](https://img.shields.io/badge/Sito_Web-Francesco_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://francesco-home.vercel.app/)
 
 ## 💻 Tech Stack
 
