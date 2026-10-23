@@ -15,7 +15,8 @@ Oltre al codice, sono un maker e un tech enthusiast a tutto tondo: nel tempo lib
 - [![Studio Ristori](https://img.shields.io/badge/Sito_Web-Studio_Ristori-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studio-ristori.vercel.app/)
 
 - 👤 **Hub Personali e Domotica**: Dashboard e portali web personali.
-- [![Sito Web Giada Home](https://img.shields.io/badge/Sito_Web-Giada_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://giada-home.vercel.app/) [![Sito Web Francesco Home](https://img.shields.io/badge/Sito_Web-Francesco_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://francesco-home.vercel.app/)
+  <br/>
+  [![Sito Web Giada Home](https://img.shields.io/badge/Sito_Web-Giada_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://giada-home.vercel.app/) [![Sito Web Francesco Home](https://img.shields.io/badge/Sito_Web-Francesco_Home-d7e78c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://francesco-home.vercel.app/)
 
 ## 💻 Tech Stack
 
@@ -32,11 +33,11 @@ Oltre al codice, sono un maker e un tech enthusiast a tutto tondo: nel tempo lib
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=effe1209&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=effe1209&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=effe1209&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effe1209&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
 ## 🌐 Mettiamoci in contatto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-fiaschi-537b32295) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francesco.fiaschi2002@gmail.com)
