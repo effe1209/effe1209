@@ -41,6 +41,7 @@ Oltre al codice, sono un maker e un tech enthusiast a tutto tondo: nel tempo lib
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effe1209&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 ## 🌐 Mettiamoci in contatto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-fiaschi-537b32295) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francesco.fiaschi2002@gmail.com)
